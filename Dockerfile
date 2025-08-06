@@ -20,6 +20,7 @@ RUN yum -y install rpm dnf-plugins-core \
       epel-release \
       initscripts \
       sudo \
+      cronie \
       which \
       hostname \
       libyaml \
