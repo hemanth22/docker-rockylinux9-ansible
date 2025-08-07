@@ -21,6 +21,7 @@ RUN yum -y install rpm dnf-plugins-core \
       initscripts \
       sudo \
       cronie \
+      diffutils \
       which \
       hostname \
       libyaml \
