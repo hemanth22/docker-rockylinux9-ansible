@@ -53,4 +53,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}:latest
+          tags: bitroid/docker-rockylinux9-ansible:latest
